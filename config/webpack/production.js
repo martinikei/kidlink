@@ -1,4 +1,5 @@
 process.env.NODE_ENV = process.env.NODE_ENV || 'production'
+export NODE_OPTIONS=--openssl-legacy-provider
 
 const environment = require('./environment')
 
