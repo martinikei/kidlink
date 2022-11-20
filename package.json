@@ -2,7 +2,8 @@
   "name": "kidlink",
   "private": true,
   "dependencies": {
-    "@rails/webpacker": "^5.2.1"
+    "@rails/webpacker": "^5.2.1",
+    "nvm": "^0.0.4"
   },
   "version": "0.1.0",
   "devDependencies": {
